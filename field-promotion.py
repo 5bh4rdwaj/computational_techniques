@@ -13,8 +13,10 @@ if rank=="lt." or rank=="Lt.":
     new_rank = "Capt."
 elif rank=="capt."or rank== "Capt.":
     new_rank = "Maj."
-elif rank=="maj.":
-    new_rank = "Lt. Col"
+elif rank=="maj."or rank=="Maj.":
+    new_rank = "Lt. Col."
+elif rank=="lt. Col." or rank== "Lt. Col.":
+    new_rank = "Col"
 else:
     print ("invalid format of rank enetered")
 
