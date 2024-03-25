@@ -13,3 +13,5 @@
 12. realationship between wages and type of contract (permanent/temp)
 13. relationship between type of contract and education
 14. r-ship between gender and contract
+
+* upon plotting the distribution we should check the skewness of the distribution
